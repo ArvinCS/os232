@@ -8,3 +8,5 @@ permalink: LINKS/
 2. [OS10 Book](https://www.os-book.com/OS10/) Foundation book for this class, explainly os with details.
 3. [Vi Editor Hacks](https://www.redhat.com/sysadmin/introduction-vi-editor)
 4. [Linux Basic Commands](https://kinsta.com/blog/linux-commands/)
+5. [File System of Linux](https://www.scaler.com/topics/linux-tutorial/file-system-of-linux/)
+6. [File System Debian](https://wiki.debian.org/FileSystem)

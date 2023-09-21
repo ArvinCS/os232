@@ -6,3 +6,5 @@ ZCZC W01 200 L02 Attending CLASSROOM meetings
 ZCZC W01 60 L05 Quiz related including studying
 ZCZC W02 100 L12 Doing Assignment #02
 ZCZC W02 30 L21 Learning how to use vi editor
+ZCZC W03 120 L13 Doing Assignment #03
+ZCZC W03 25 L82 Reading article about file system
