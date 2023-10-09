@@ -15,3 +15,7 @@ ZCZC W04 100 L02 Attending CLASSROOM meeting
 ZCZC W04 60 L06 Reading OS book
 ZCZC W04 60 L05 Doing pop quiz
 ZCZC W04 20 L27 Exploring scp
+ZCZC W05 100 L02 Attending CLASSROOM meeting
+ZCZC W05 70 L06 Reading OS book
+ZCZC W05 65 L05 Doing pop quiz
+ZCZC W05 30 L24 Learning nano
