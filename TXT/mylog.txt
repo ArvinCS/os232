@@ -19,3 +19,7 @@ ZCZC W05 100 L02 Attending CLASSROOM meeting
 ZCZC W05 70 L06 Reading OS book
 ZCZC W05 65 L05 Doing pop quiz
 ZCZC W05 30 L24 Learning nano
+ZCZC W06 100 L02 Attending CLASSROOM meeting
+ZCZC W06 90 L06 Reading OS book
+ZCZC W06 65 L05 Doing pop quiz
+ZCZC W06 70 L16 Doing Assignment #06
