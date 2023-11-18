@@ -27,3 +27,7 @@ ZCZC W07 100 L02 Attending CLASSROOM meeting
 ZCZC W07 90 L06 Reading OS book
 ZCZC W07 60 L05 Doing pop quiz
 ZCZC W07 70 L17 Doing Assignment #07
+ZCZC W08 90 L06 Reading OS book
+ZCZC W08 60 L05 Doing pop quiz
+ZCZC W08 300 L18 Doing Assignment #08
+ZCZC W08 90 L32 Watching a video to make sure assignment week 8 done right
